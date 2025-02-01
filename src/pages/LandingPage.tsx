@@ -169,7 +169,7 @@ const LandingPage = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Box className="h-8 w-8 text-blue-400" />
-                <span className="text-xl font-bold">ColdChain</span>
+                <span className="text-xl font-bold">Logic Lynk</span>
               </div>
               <p className="text-gray-400">
                 Revolutionizing cold chain logistics with cutting-edge technology.
